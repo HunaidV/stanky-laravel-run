@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"></a><a href="https://laravel.com" target="_blank"><img src="https://seeklogo.com/images/G/google-cloud-run-logo-895F1305FF-seeklogo.com.png" height="200" width="200" alt="GCP Cloud run Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"></a><a href="https://laravel.com" target="_blank"><img src="https://seeklogo.com/images/G/google-cloud-run-logo-895F1305FF-seeklogo.com.png" height="50" width="50" alt="GCP Cloud run Logo"></a></p>
 
 
 
